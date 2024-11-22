@@ -1,0 +1,140 @@
+
+body{background-color: #ffffff21;
+margin: 0%;}
+
+.maincontentText{
+    background-color: #dddddd30;
+padding-bottom: 2%;
+padding-top: .5%;
+    
+
+}
+.logoText{
+    height: 40px;
+    width: 60px;
+    size-adjust: 3%;
+}
+.Text1{
+    margin-left: 20%;
+    margin-top:-3%;
+}
+
+.Text2{margin-left: 27%;
+    margin-top: -2.3%;
+
+}
+.Text3{
+    margin-left: 37%;
+    margin-top: -2.5%;
+}
+.Text4{
+    margin-left: 45%;
+    margin-top: -2.3%;
+}
+.Text5{
+    margin-left: 54%;
+    margin-top: -2.3%;
+}
+.inpute1{
+    margin-left: 61%;
+    margin-top: -2.5%;
+}
+.inpute2{
+    margin-left: 77%;
+    margin-top: -1.5%;
+    height: 28%;
+
+
+}
+.inpute3{
+    margin-left: 90%;
+    margin-top: -1.4%;
+    padding-top: 1;
+    height: 5%;
+}
+.bodyText{
+    margin-bottom: -13%;
+    margin-left: 12%;
+    
+  
+}
+.validationText{
+    margin-left: 63%;
+    margin-bottom: 1%;
+    border-radius: 5px;
+    padding-bottom: 3%;
+    
+}
+footer{
+    height: 25%;
+    width: 100%;
+    background-color: #fcf8e3;
+}
+.footerText{
+    margin-left:12% ;
+    margin-bottom: -6%;
+}
+.footerText2{
+    margin-left: 6%;
+    margin-top: -5%;
+}
+.endlogo{
+    margin-left: 63%;
+    margin-top: -16%;
+    padding-top: -15%;
+} 
+.linkText1{
+    margin-left: 12%;
+    margin-bottom: -9.5%;
+    text-decoration: none;
+}
+.linkText2{
+    margin-left: 30%;
+    margin-bottom: -9.5%;
+    text-decoration: none;
+}
+.linkText3{
+    margin-left: 50%;
+    margin-bottom: -9.5%;
+    
+}
+.linkText4{
+    margin-left: 75%;
+    margin-bottom: -8;
+    text-decoration: none;
+}
+.finalText{
+    margin-left:65%;
+    margin-top: 10%;
+}
+.apply{
+    background-color: aqua;
+    margin-left: 1%;
+    border-radius: 4px;
+    color: #28a4c9;
+    
+    border-collapse: collapse;
+}
+a{
+    text-decoration: none;
+    color: #337ab7;
+}
+.sign{
+    width: 27.5%;
+}
+.sign1{
+    background-color: #3e8f3e;
+    color: white;
+
+}
+.img{
+    width: 140%;
+    height: 70%;
+    margin-left: 300%;
+}
+.TEXT1{
+    width
+}
+.body{
+    text-decoration-thickness: 4px;
+}

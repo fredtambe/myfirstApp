@@ -1,0 +1,133 @@
+body{ background-color: #f2f4f7;
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    border: 0%;
+    
+    
+    
+
+}
+/* bodylisten */
+.headingText1{
+    
+  color: #0866fffc;
+  margin-left: 15%;
+  margin-top: 60%;
+  margin-bottom:-19% ;
+  font-size: 25px;
+  flex-direction: bottom;
+  
+
+
+}
+/* logolist */
+.headingText2{margin-left: 15%;
+    margin-top: 20%;
+    padding-bottom: 2%;
+    margin-bottom: 25%;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+/* my headingtext */
+.formtext1{ margin-bottom: -50%%;
+    padding: 10%;
+    pad
+
+}
+.FORM{
+    height: 8cm;
+    width: 9cm;
+    background-color:#ffffffcf ;
+    border-radius: 9px;
+    margin-left: 50%;
+    margin-top: -70%;
+
+}
+/* the main form */
+input[ type=text]{border-radius: 4px;
+    height: 1cm;
+    width: 92%;
+    margin-left: 3%;margin-top: 16px;
+    background-color: white;
+    border: color(srgb red green rgb(108, 108, 169));
+    
+   
+
+}
+input[ type=text] :hover { border-color: blue;
+
+}
+/* input1 */
+input[ type=password]{border-radius: 4px;
+    height: 1cm;
+    width: 92%;
+    margin-left: 3%;
+
+}
+/* input2 */
+.submit{background-color: #0866fffc;border-radius: 4px;
+    height: 1cm;
+    width: 92%;
+    margin-left: 3%;
+    text-align: center;
+    color:#ffffffed ;
+    text-size-adjust: 3px;
+    border:blue;
+
+}
+/* inpute3 */
+button[type=submit]{background-color:#42b72a ;border-radius: 4px;
+    height: 1cm;
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 6%;
+
+}
+/* inpute4 */
+.passi{
+    text-align: center;
+    text-decoration: none;
+}
+/* input that belongs to the form */
+.formtext2{
+    margin-left: 51%;
+    text-decoration: none;
+    margin-bottom: 50%;
+    margin-top: -43%;
+
+}
+/* conclution form */
+a{
+    text-decoration: none;
+}
+.my:hover{
+    color: black;
+    text-size-adjust: 3cm;
+    text-decoration: underline;
+    text-decoration: underline;
+}
+/* additional effects like hovers */
+a { 
+    
+
+}
+input[ type=text] :hover{ border-color: blue;
+    
+}
+button[type=submit]:hover{
+    color: white;
+    background-color: #619956;
+}
+.my{
+    color: black;
+    font-size: larger;
+}
+.passi :hover{
+    text-decoration: underline;
+
+}
+input[ type=text] :hover {
+    border-color: blue;
+}

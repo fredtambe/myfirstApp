@@ -1,0 +1,77 @@
+body{
+    margin: 0%;
+}
+.logo{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: 20%;
+}
+fieldset{
+    height: 50%;
+    width: 23%;
+    background-color: #fafafa00;
+    margin-left: 40%;
+}
+
+.formText2{
+    width: 20%;
+    height: 2cm;
+    background-color: beige;
+    margin-left: 40%;
+    text-align: center;
+}
+.headingTest{
+    margin-left: 16%;
+    margin-bottom: 4%;
+    padding-bottom: -3%;
+    
+}
+.headingTest1{
+    margin-left:27%;
+
+}
+.sub{
+    margin-left: 16%;
+}
+button[type=submit]{
+    margin-left: 16%;
+
+}
+input[type=text]{
+    border-radius: 3px;
+    margin-left: 16%;
+    
+}
+
+
+
+input[type=password]{
+    border-radius: 3px;
+    margin-left: 16%;
+    
+
+}
+.link1{
+    margin-left: 16%;
+}
+.link2{
+    text-align: center;
+}
+.bodyText{
+    margin-left: 16%;
+}
+.bodyText2{
+    margin-left: %;
+
+}
+.button{
+    margin-left: 16%;
+    padding-bottom: 1cm;
+    width: cm;
+    height: ;
+
+}
+.loglink{
+    margin-left: 16%;
+
+}
+
